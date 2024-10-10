@@ -1,0 +1,24 @@
+{
+  "name": "installerautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "smokesuite": "npx cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cypress/grep": "^4.1.0",
+    "cypress": "^13.14.2",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "mochawesome-merge": "^4.3.0",
+    "neat-csv": "^5.2.0"
+  },
+  "dependencies": {
+    "convert-csv-to-json": "^2.48.0",
+    "cypress-tags": "^1.2.2",
+    "papaparse": "^5.4.1",
+    "soft-assert": "^0.2.7"
+  }
+}
