@@ -14,3 +14,5 @@ integration: it has 3 sub folders:
 1.examples: in this foldwer all the test cases are stored.
 2.PageObjects: here all the locators are maintained.
 3.PageActions: Here all the custom commands are written corresponding to individual pages.
+
+Cypress is the UI Automation tool Used and JavaScript is the back end programming used.
